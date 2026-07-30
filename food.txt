@@ -1,0 +1,7 @@
+Pizza 12
+Burger 8
+Fries 5
+
+101 Pizza
+102 Burger
+103 Fries

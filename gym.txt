@@ -1,0 +1,7 @@
+Yoga	10
+Spinning	15
+Pilates	12
+
+3	Elena	Yoga,Spinning
+1	Marco	Pilates
+5	Luca	Yoga,Yoga,Pilates
